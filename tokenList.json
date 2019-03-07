@@ -1,17 +1,4 @@
 {
-  "\u0000": {
-    "symbol": "\u0000",
-    "companyName": "NNS DomainCenter",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "NNS DomainCenter",
-        "hash": "bd3fa97e2bc841292c1e77f9a97a1393d5208b48",
-        "decimals": 0,
-        "totalSupply": 0
-      }
-    }
-  },
   "ACAT": {
     "symbol": "ACAT",
     "companyName": "ACAT Token",
